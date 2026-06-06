@@ -1,5 +1,3 @@
-# DataCost-Guard
-
 # DataCost Guard
 
 Analisa um ambiente **Databricks / Spark** e responde a uma pergunta que o
